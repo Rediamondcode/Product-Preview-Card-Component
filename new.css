@@ -1,0 +1,57 @@
+.req-rol {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 110px;
+    border: none;
+    cursor: pointer;
+}
+
+.add-ca {
+    background-color: yellow;
+    color: black;
+    height: 40px;
+    width: 110px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    margin-left: 14px ;
+}
+
+.sign-up {
+    background-color: green;
+    color: white;
+    height: 40px;
+    width: 110px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 14px;
+}
+
+.btn-grp .button {
+    background-color: rgb(84, 144, 84);
+    color: white;
+    border: 1px solid green;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    width: 150px;
+    display: block;
+    
+    
+}
+
+.btn-grp .button:not(:last-child) {
+    border-bottom: none;
+}
+
+.btn-grp .button:hover {
+    background-color: blueviolet;
+}
+.btn-grp .button:active {
+    color: brown;
+}
+
+
+
